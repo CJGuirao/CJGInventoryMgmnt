@@ -1,0 +1,3 @@
+welcome_page_homepage:
+    path:     /
+    defaults: { _controller: WelcomePageBundle:Default:index }
